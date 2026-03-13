@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @venom49637
-- 👀 I’m interested in websites
+- 👀 I’m interested in websites and programming.
 - 🌱 I’m currently learning mysql, python, php, html, css
 
 <!---
